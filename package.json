@@ -1,5 +1,6 @@
 {
   "name": "gif-expert-app",
+  "homepage": "https://marco-wunderman.github.io/react-GifExpertApp/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
